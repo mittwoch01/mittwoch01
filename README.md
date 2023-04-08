@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Hello. I'm Cindy. </h1>
+<h1> Hello. I'm Eunbi Jo. </h1>
 <h2> My Tech Stack </h2>
 <p>
   <img src="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/>
